@@ -1,1 +1,2 @@
-Git GUI Test!
+1. Git GUI Test.
+2. Git GUI push to remote origin.
